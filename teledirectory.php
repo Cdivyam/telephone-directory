@@ -18,7 +18,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>                        
-          </button>
+          </button>// divyam commit
           <a class="navbar-brand" href="#">TELEPHONE</a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
